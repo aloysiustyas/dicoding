@@ -28,7 +28,7 @@ st.markdown("""
 # Step 3: Data Wrangling
 
 # a. Gathering Data
-data_path = 'C:/Users/HP/Downloads/PRSA_Data_20130301-20170228/PRSA_Data_Shunyi_20130301-20170228.csv'
+data_path = 'database/PRSA_Data_Shunyi_20130301-20170228.csv'
 data = pd.read_csv(data_path)
 
 # b. Cleaning Data
